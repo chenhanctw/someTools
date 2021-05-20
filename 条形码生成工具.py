@@ -108,3 +108,5 @@ imgLabel.place(y=180)
 
 
 window.mainloop()
+
+print("hello I'm 450")
